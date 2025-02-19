@@ -1,7 +1,7 @@
 ---
 title: "Climate-Driven Variability in Runoff Erosion Encoded in Stream Network Geometry"
-collection: publications"
-category: manuscripts"
+collection: publications
+category: manuscripts
 permalink: /publication/2021-02-01-Climate-Driven-Variability-in-Runoff-Erosion-Encoded-in-Stream-Network-Geometry
 date: 2021-02-01
 venue: 'Geophysical Research Letters'

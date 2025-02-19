@@ -1,7 +1,7 @@
 ---
 title: "Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales"
-collection: publications"
-category: manuscripts"
+collection: publications
+category: manuscripts
 permalink: /publication/2024-12-01-Limits-to-timescale-dependence-in-erosion-rates-Quantifying-glacial-and-fluvial-erosion-across-timescales
 date: 2024-12-01
 venue: 'Science Advances'
