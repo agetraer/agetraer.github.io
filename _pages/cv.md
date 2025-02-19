@@ -16,7 +16,7 @@ B.A. in Geosciences, Princeton University, 2019
 
 Publications
 ------
-  <ol>
+  <ol reversed>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
