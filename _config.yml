@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alexander Getraer"
+title                    : "agetraer"
 title_separator          : "-"
 name                     : &name "Alexander Getraer"
 description              : &description "personal website"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Alec Getraer"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate studying geomorphology"
+  bio              : "PhD student studying geomorphology"
   location         : "Hanover, NH"
   employer         : "Dartmouth College"
   uri              : # URL
