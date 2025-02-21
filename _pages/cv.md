@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Alexander Getraer
+------
 Education
 ------
-Ph.D. student in Earth Sciences, Dartmouth College, 2022–present 
-B.A. in Geosciences, Princeton University, 2019
+* <b>Ph.D. Student</b>, Earth Sciences, Dartmouth College, 2022–present
+  * Advisors: [Marisa C. Palucis](https://www.marisapalucis.com/), [Justin V. Strauss](https://sites.dartmouth.edu/strausslab/)
+* <b>B.A.</b>, Geosciences, Princeton University, 2019
+  * <b>Thesis:</b> [<i>Tributary slopes record regional climate and constrain branching angles in U.S. river networks</i>](http://arks.princeton.edu/ark:/88435/dsp01m900nx25n)
+  * <b>Advisor:</b> [Adam C. Maloof](https://maloof.princeton.edu/)
 
 Publications
 ------
