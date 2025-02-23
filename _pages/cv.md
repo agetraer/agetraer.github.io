@@ -11,7 +11,7 @@ redirect_from:
 
 Alexander Getraer
 ------
-Education
+Education 
 ------
 * <b>Ph.D. Student</b>, Earth Sciences, Dartmouth College, 2022–present
   * Advisors: [Marisa C. Palucis](https://www.marisapalucis.com/), [Justin V. Strauss](https://sites.dartmouth.edu/strausslab/)
