@@ -1,7 +1,7 @@
 ---
 title: "Climate-Driven Variability in Runoff Erosion Encoded in Stream Network Geometry"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2021-02-01-Getraer-Maloof-2021
 date: 2021-02-01
 venue: 'Geophysical Research Letters'
