@@ -2,7 +2,7 @@
 title: "Climate-Driven Variability in Runoff Erosion Encoded in Stream Network Geometry"
 authors: Alexander Getraer and Adam C. Maloof
 collection: publications
-pdf: http://agetraer.github.io/files/Getraer-Maloof-2021.pdf
+pdfurl: http://agetraer.github.io/files/Getraer-Maloof-2021.pdf
 permalink: /publication/2021-01-19-Getraer-Maloof-2021
 date: 2021-01-19
 venue: 'Geophysical Research Letters'
