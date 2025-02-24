@@ -5,8 +5,8 @@ collection: publications
 category: manuscripts
 category: manuscripts
 pdf: http://agetraer.github.io/files/Wilner-etal-2024.pdf
-permalink: /publication/2024-12-20-Wilner-etal-2024
-date: 2024-12-20
+permalink: /publication/12/20/24-Wilner-etal-2024
+date: 12/20/24
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.adr2009'
 citation: 'Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J., et al. (2024). Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. <i>Science Advances, 10</i>, eadr2009. https://doi.org/10.1126/sciadv.adr2009'

@@ -11,6 +11,7 @@ redirect_from:
 
 Alexander Getraer
 ------
+
 Education 
 ------
 * <b>Ph.D. Student</b>, Earth Sciences, Dartmouth College, 2022–present
