@@ -15,4 +15,4 @@ layout: single
 # #excerpt:
 ---
 
-<a href='/images/thawslump1.png'><img src='/images/thawslump1.png' style='width:100%; height:auto;'></a>
+<a href='/images/thawslump1.png'><img width="256" src='/images/thawslump1.png' width='100%'></a>
