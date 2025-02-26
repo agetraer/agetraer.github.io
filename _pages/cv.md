@@ -14,11 +14,16 @@ Alexander Getraer
 
 Education 
 ------
-* <b>Ph.D. Student</b>, Earth Sciences, Dartmouth College, 2022–present
+* <b>Ph.D. Student</b>, Earth Sciences, Dartmouth College, 2022—present
   * Advisors: [Marisa C. Palucis](https://www.marisapalucis.com/), [Justin V. Strauss](https://sites.dartmouth.edu/strausslab/)
 * <b>B.A.</b>, Geosciences, Princeton University, 2019
-  * <b>Thesis:</b> [<i>Tributary slopes record regional climate and constrain branching angles in U.S. river networks</i>](http://arks.princeton.edu/ark:/88435/dsp01m900nx25n)
-  * <b>Advisor:</b> [Adam C. Maloof](https://maloof.princeton.edu/)
+  * Thesis: [<i>Tributary slopes record regional climate and constrain branching angles in U.S. river networks</i>](http://arks.princeton.edu/ark:/88435/dsp01m900nx25n)
+  * Advisor: [Adam C. Maloof](https://maloof.princeton.edu/)
+
+Professional Experience
+------
+* <b>Physical Science Information Specialist</b>, US Forest Service SW Region, 2021-2022
+* <b>Photogrammetry Technician</b> (AmeriCorps), US Forest Service SW Region, 2019-2020
 
 Publications
 ------
@@ -28,6 +33,12 @@ Publications
   {% endfor %}
   </ol>
   
+Teaching
+------
+* <b>TA EARS 67</b> Environmental Geomechanics, Dartmouth College, Fall 2025
+* <b>TA EARS 33</b> Earth Surface Processes and Landforms, Dartmouth College, Spring 2023 2024
+* <b>TA GEO/WRI 201</b> Measuring Climate Change, Princeton University, Fall 2018
+
 <!-- Talks
 ------
   <ul>{% for post in site.talks reversed %}
