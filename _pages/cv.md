@@ -22,8 +22,8 @@ Education
 
 Professional Experience
 ------
-* <b>Physical Science Information Specialist</b>, US Forest Service SW Region, 2021-2022
-* <b>Photogrammetry Technician</b> (AmeriCorps), US Forest Service SW Region, 2019-2020
+* <b>Physical Science Information Specialist</b>, US Forest Service SW Region, 2021—2022
+* <b>Photogrammetry Technician</b> (AmeriCorps), US Forest Service SW Region, 2019—2020
 
 Publications
 ------
@@ -36,7 +36,7 @@ Publications
 Teaching
 ------
 * <b>TA EARS 67</b> Environmental Geomechanics, Dartmouth College, Fall 2025
-* <b>TA EARS 33</b> Earth Surface Processes and Landforms, Dartmouth College, Spring 2023 2024
+* <b>TA EARS 33</b> Earth Surface Processes and Landforms, Dartmouth College, Spring 2023, 2024
 * <b>TA GEO/WRI 201</b> Measuring Climate Change, Princeton University, Fall 2018
 
 <!-- Talks
