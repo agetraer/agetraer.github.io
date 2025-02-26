@@ -10,7 +10,7 @@ layout: single
 classes: wide
 # If you want a header image
 header:
-  overlay_image: /images/thawslump1.png
+  image: /images/thawslump1.png
   caption: 'Thaw slump, Aklavik Range, CA'
 #excerpt:
 ---
