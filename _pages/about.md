@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexander Getraer"
+#title: "Alexander Getraer"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,8 @@ classes: wide
 # If you want a header image
 header:
   image: thawslump1.png
-  caption: 'Thaw slump, Aklavik Range, CA'
+  caption: 'Thaw slump, Willow River, Canada'
 #excerpt:
 ---
 
-<a href='/images/thawslump1.png'><img src='/images/thawslump1.png' style='width:100%; height:auto;'></a>
+<!-- <a href='/images/thawslump1.png'><img src='/images/thawslump1.png' style='width:100%; height:auto;'></a> -->
